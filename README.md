@@ -3,7 +3,7 @@ I’m a full-stack web developer with half a decade of experience building intui
 
 I specialize in **TypeScript** and **Next.js** (*though I'm constanting learning new stuff, can't keep here updated!*), and I spend my free time tyring to contirbute as much as I can!
 
-Arts, Medicine, Mathematics and AI enthusiast, and Machine Learning student. The list is _looong_, use your imagination from here and on! ⛵️
+Arts, Medicine, Mathematics and AI enthusiast, and Machine Learning student.<br> The list is _looong_, use your imagination from here and on! ⛵️
 
 ---
 
