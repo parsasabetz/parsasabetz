@@ -1,8 +1,13 @@
-- 👋 Hello there! I’m @parsasabetz
-- I’m interested in Web Development &
-- I’m currently learning to improve myself for web!
-- I’d love to collaborate on Front-End projects!
-- You can contact me by Email!
+## Hey, I'm Parsa 😮‍💨
+I’m a full-stack web developer with half a decade of experience building intuitive, scalable, and performant web applications for businesses.
+
+I specialize in **TypeScript** and **Next.js** (*though I'm constanting learning new stuff, can't keep here updated!*), and I spend my free time tyring to contirbute as much as I can!
+
+Arts, Medicine, Mathematics and AI enthusiast, and Machine Learning student. The list is _looong_, use your imagination from here and on! ⛵️
+
+---
+
+I love working on new ideas, so _**don't**_ miss my email if you got any! 🤙🏻
 
 <!---
 parsasabetz/parsasabetz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
