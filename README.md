@@ -7,7 +7,7 @@ Arts, Medicine, Finance, Mathematics and AI enthusiast, and Machine Learning stu
 
 ---
 
-I love working on new ideas, so _**don't**_ miss my email if you got any! 🤙🏻
+I love working on new ideas, so _**don't**_ miss my email if you got any! 
 
 <!---
 parsasabetz/parsasabetz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
