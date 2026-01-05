@@ -1,9 +1,9 @@
 ## Hey, I'm Parsa
 Software engineer with half a decade of experience building intuitive, scalable, and performant applications for businesses.
 
-I specialize in **TypeScript** and web (*though I'm constantly learning new stuff, can't keep here updated!*), and I spend my free time tyring to contirbute as much as I can!
+I specialize in **TypeScript** and web (*though I'm constantly learning new stuff, can't keep here updated!*), and I spend my free time tyring to contirbute as much as I can.
 
-Arts, Medicine, Finance, Mathematics and AI enthusiast, and DS/ML student.<br> The list is _looong_, use your imagination from here and on! ⛵️
+Arts, Medicine, Finance, Mathematics and AI enthusiast, and DS/ML student.<br> The list is _looong_, use your imagination from here and on ⛵️
 
 ---
 
